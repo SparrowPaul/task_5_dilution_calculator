@@ -1,1 +1,1 @@
-A sample command-line application with an entrypoint in `bin/`
+A sample command-line application with an entrypoint in `bin/`.
